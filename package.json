@@ -18,7 +18,7 @@
     "@material-ui/icons": "^4.11.2",
     "@mdx-js/react": "^1.6.21",
     "clsx": "^1.1.1",
-    "firebase": "^8.2.10",
+    "firebase": "^10.9.0",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-use-form-state": "^0.13.2"
